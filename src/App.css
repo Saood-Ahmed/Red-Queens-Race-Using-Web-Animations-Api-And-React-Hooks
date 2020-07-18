@@ -2,7 +2,7 @@
   /* background-image: url('./img/background.jpg'); */
   background-image: linear-gradient(blue, white);
   background-size: cover;
-  height:auto;
+  height:750px;
   width: 100%;
   background-repeat: no-repeat;
 }
