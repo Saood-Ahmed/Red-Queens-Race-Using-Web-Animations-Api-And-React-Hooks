@@ -6,7 +6,9 @@
   width: 100vw;
   background-repeat: no-repeat;
 }
-
+.alice {
+  margin: 40px auto;
+}
 .alice img{
   float: left;
   margin-top:17%;
