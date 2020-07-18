@@ -20,7 +20,7 @@
 }
 
 .bottle img{
-  
+  float: right;
   width:17.5%;
   height: auto;
 }
