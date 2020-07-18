@@ -68,14 +68,15 @@ function App() {
 
   return (
     <div className="App">
+       <div className='bottle'>
+        <img src={bottle} alt='bottle 1' onClick={ slowDown }/>
+        </div>
       <Clouds />
       <div  ref={ ref } className='alice'>
         <img  src={alice} alt="alice" onClick= { speedUp } id="alice"/>
        
       </div>
-      <div className='bottle'>
-        <img src={bottle} alt='bottle 1' onClick={ slowDown }/>
-        </div>
+     
        
     </div>
   );
