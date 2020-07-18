@@ -22,9 +22,7 @@
 }
 /* The Clouds Component */
 /*  */
-.clouds{
-  display: flex;
- }
+
 
 .clouds img{
   width: 20px;
