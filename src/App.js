@@ -72,10 +72,11 @@ function App() {
       <Clouds />
       <div  ref={ ref } className='alice'>
         <img  src={alice} alt="alice" onClick= { speedUp } id="alice"/> 
-        <div className='bottle'>
+       
+      </div>
+      <div className='bottle'>
         <img src={bottle} alt='bottle 1' onClick={ slowDown }/>
         </div>
-      </div>
      
     </div>
   );
