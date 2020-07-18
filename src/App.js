@@ -20,7 +20,7 @@ function App() {
   const{ ref, getAnimation } = useWebAnimations({
     keyframes:[
     { transform: 'translateX(0px)' },
-    { transform: 'translateX(1200px)' }
+    { transform: 'translateX(600px)' }
   ], 
   timing: {
     duration:5000,
