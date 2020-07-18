@@ -2,7 +2,7 @@
   /* background-image: url('./img/background.jpg'); */
   background-image: linear-gradient(blue, white);
   background-size: cover;
-  height:750px;
+  height:500px;
   width: 100%;
   background-repeat: no-repeat;
 }
@@ -20,7 +20,6 @@
 }
 
 .bottle img{
-  float: right;
   width:17.5%;
   height: auto;
 }
