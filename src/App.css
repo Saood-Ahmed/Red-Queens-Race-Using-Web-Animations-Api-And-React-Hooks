@@ -11,12 +11,11 @@
 }
 .alice img{
   float: left;
-  margin-top:17%;
   width:25%;
   height: auto;
 }
 .bottle img{
-  float: right;
+  float: left;
   width:17.5%;
   height: auto;
 }
