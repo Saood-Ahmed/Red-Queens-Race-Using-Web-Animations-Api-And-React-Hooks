@@ -8,14 +8,19 @@
 }
 .alice {
   margin: 40px auto;
+  float: left;
 }
 .alice img{
-  float: left;
   width:25%;
   height: auto;
 }
-.bottle img{
+
+.bottle {
   float: left;
+}
+
+.bottle img{
+  
   width:17.5%;
   height: auto;
 }
