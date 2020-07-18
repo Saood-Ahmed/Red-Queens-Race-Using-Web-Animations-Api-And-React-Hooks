@@ -3,7 +3,7 @@
   background-image: linear-gradient(blue, white);
   background-size: cover;
   height:auto;
-  width: 100vw;
+  width: 100%;
   background-repeat: no-repeat;
 }
 .alice {
