@@ -69,8 +69,8 @@ function App() {
   return (
     <div className="App">
       <Clouds />
-      <div  className='alice'>
-        <img ref={ ref } src={alice} alt="alice" onClick= { speedUp } id="alice"/>
+      <div  ref={ ref } className='alice'>
+        <img  src={alice} alt="alice" onClick= { speedUp } id="alice"/>
        
       </div>
       <div className='bottle'>
