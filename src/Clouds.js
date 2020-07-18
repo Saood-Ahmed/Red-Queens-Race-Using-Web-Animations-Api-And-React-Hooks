@@ -7,8 +7,8 @@ function Clouds() {
 
   const{ ref, getAnimation } = useWebAnimations({
     keyframes:[
-    { transform: 'translateX(-200px)' },
-    { transform: 'translateX(200px)' }
+    { transform: 'translateX(0px)' },
+    { transform: 'translateX(800px)' }
   ], 
   timing: {
     duration:8000,
